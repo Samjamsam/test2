@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "C7175404-BBEF-45D5-92EA-4D29E78D275A",
+  "do_objectID": "16E81485-E711-406A-BDA8-89211B59C18B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 29.71346009250917,
-    "width": 59.42692018501845,
-    "x": 204.8327430831726,
-    "y": 178.1841785674626
+    "height": 12,
+    "width": 12,
+    "x": 11,
+    "y": 11
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,43 +25,35 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
-      "id": "60E8F392-D25A-4A29-ADE9-908B38C57234"
+      "id": "697212D0-2EFE-4F11-A760-919C71AF8AFD"
     }
   ],
-  "name": "Oval 2",
+  "name": "Oval 2 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -15,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-      ],
-      "isEnabled": false,
-      "lineCapStyle": 1,
-      "lineJoinStyle": 1
-    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2942511047979798,
-          "green": 0.7330675323346969,
-          "red": 1
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 7
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
       }
     ],
     "endDecorationType": 0,
@@ -71,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1385422945022583,
-          "green": 0.6503673195838928,
-          "red": 0.9617109894752502
+          "blue": 0.3529411764705883,
+          "green": 0.1647058823529412,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
